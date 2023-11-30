@@ -1,0 +1,2 @@
+# Space-ball-Shooter
+This is a Space Shooting game. In this we have white ball at the center and randomly balls of different size approaches to  as a enemy and we have to shoot those balls.
